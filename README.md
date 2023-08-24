@@ -2,7 +2,9 @@
 Dataset Link:
 
 KVASIR-SEG: https://datasets.simula.no/kvasir-seg/
+
 CVC-ClinicDB: https://polyp.grand-challenge.org/CVCClinicDB/
+
 IRv2-Net model (trained on KVASIR-SEG) weight:
 https://drive.google.com/file/d/1mcXcLxaSHjziUSMsu06irvYHgl9Cf_or/view?usp=sharing
 
